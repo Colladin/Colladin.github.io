@@ -1,2 +1,1 @@
-# Colladin.github.io
-Sitio personal
+# Bienvenido a la pagina de Diego
